@@ -29,6 +29,21 @@ It provides factual information, emotional reassurance, and gentle guidance — 
 - OpenAI (`gpt-4o-mini`, `gpt-3.5-turbo`, etc.)  
 - Hugging Face (`google/flan-t5-large`, `tiiuae/falcon-7b-instruct`, etc.)
 
+## 🛡️ Safety Disclaimer
+
+> ⚠️ **Important:**  
+> RedBot provides **general information and emotional support only.**  
+> It does **not** replace professional medical advice, diagnosis, or treatment.  
+> Always seek the advice of a qualified healthcare provider regarding any medical condition.  
+>
+> If you are in distress or feel unsafe, please reach out for immediate help:
+>
+> - 🇮🇳 **India Helpline:** 9152987821  
+>
+> 💗 Your safety and well-being come first.
+
+ 
+
 ---
 
 ## ⚙️ Local Setup
@@ -46,19 +61,5 @@ cd redbot
   cd frontend
   npm run dev
 
-
- 
-## 🛡️ Safety Disclaimer
-
-> ⚠️ **Important:**  
-> RedBot provides **general information and emotional support only.**  
-> It does **not** replace professional medical advice, diagnosis, or treatment.  
-> Always seek the advice of a qualified healthcare provider regarding any medical condition.  
->
-> If you are in distress or feel unsafe, please reach out for immediate help:
->
-> - 🇮🇳 **India Helpline:** 9152987821  
->
-> 💗 Your safety and well-being come first.
 
  
